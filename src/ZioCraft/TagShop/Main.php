@@ -1,3 +1,5 @@
+<?php
+
 namespace ZioCraft\TagShop;
 
 use pocketmine\Player;
